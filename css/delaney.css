@@ -1,0 +1,12 @@
+h2 {
+    font-family: "garamond", serif;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: large;
+}
+p {
+    font-family: "garamond", serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align-last: left;
+}
